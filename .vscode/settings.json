@@ -1,0 +1,12 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "python": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "[python]": {
+        "editor.inlineSuggest.enabled": true
+    }
+}

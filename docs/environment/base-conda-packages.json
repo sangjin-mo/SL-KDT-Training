@@ -1,0 +1,3350 @@
+[
+  {
+    "name": "_anaconda_depends",
+    "version": "2026.07",
+    "build": "py313_mkl_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "_openmp_mutex",
+    "version": "2.0",
+    "build": "52_msvc",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-assistant",
+    "version": "4.62.0",
+    "build": "py313haa95532_jl4_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-assistant-server",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-core",
+    "version": "4.62.0",
+    "build": "py313haa95532_jl4_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-core-server",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-environments-server",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-notebook-load-server",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-panels",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-panels-server",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-project-filebrowser-server",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-share-notebook-server",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aext-shared",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aiobotocore",
+    "version": "3.10.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aiodns",
+    "version": "4.0.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aiohappyeyeballs",
+    "version": "2.6.2",
+    "build": "py313haa95532_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aiohttp",
+    "version": "3.14.5",
+    "build": "py313h1c6eee0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aioitertools",
+    "version": "0.12.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aiosignal",
+    "version": "1.4.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "alabaster",
+    "version": "1.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "alembic",
+    "version": "1.20.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "altair",
+    "version": "6.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-anon-usage",
+    "version": "0.8.1",
+    "build": "pyhb46e38b_100",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "anaconda-auth",
+    "version": "0.15.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-catalogs",
+    "version": "0.2.0",
+    "build": "py313haa95532_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-cli-base",
+    "version": "0.9.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-client",
+    "version": "1.16.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-navigator",
+    "version": "2.7.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-opentelemetry",
+    "version": "1.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-project",
+    "version": "0.13.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda-toolbox",
+    "version": "4.62.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda_powershell_prompt",
+    "version": "1.1.1",
+    "build": "haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anaconda_prompt",
+    "version": "1.1.1",
+    "build": "haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "annotated-doc",
+    "version": "0.0.5",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "annotated-types",
+    "version": "0.7.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "anyio",
+    "version": "4.15.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aom",
+    "version": "3.14.0",
+    "build": "h1653897_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "archspec",
+    "version": "0.2.7",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "argon2-cffi",
+    "version": "25.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "argon2-cffi-bindings",
+    "version": "26.1.0",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "arrow",
+    "version": "1.4.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "arrow-cpp",
+    "version": "24.0.0",
+    "build": "cuda130_h0b16db9_103",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "astroid",
+    "version": "4.0.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "astropy",
+    "version": "8.0.2",
+    "build": "py313h921b242_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "astropy-iers-data",
+    "version": "0.2026.10.19.0.52.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "asttokens",
+    "version": "3.0.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "async-lru",
+    "version": "2.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "asyncssh",
+    "version": "2.24.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "attrs",
+    "version": "26.1.0",
+    "build": "py313h35db113_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "autopep8",
+    "version": "2.0.4",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "aws-c-auth",
+    "version": "1.0.0",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-cal",
+    "version": "1.0.0",
+    "build": "h630b2a1_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-common",
+    "version": "1.0.1",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-compression",
+    "version": "1.0.0",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-event-stream",
+    "version": "1.0.0",
+    "build": "he5dcde6_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-http",
+    "version": "1.0.0",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-io",
+    "version": "1.0.0",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-mqtt",
+    "version": "1.0.0",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-s3",
+    "version": "1.2.0",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-c-sdkutils",
+    "version": "1.0.0",
+    "build": "h1c6eee0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-checksums",
+    "version": "1.0.0",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-crt-cpp",
+    "version": "0.43.6",
+    "build": "hf76ab79_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "aws-sdk-cpp",
+    "version": "1.11.895",
+    "build": "h2cf8d17_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "babel",
+    "version": "2.18.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "backports.zstd",
+    "version": "1.3.0",
+    "build": "py313hb03e5ee_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "bcrypt",
+    "version": "5.0.0",
+    "build": "py313h114bc41_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "beautifulsoup4",
+    "version": "4.15.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "binaryornot",
+    "version": "0.6.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "black",
+    "version": "26.10.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "blas",
+    "version": "1.0",
+    "build": "mkl",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "bleach",
+    "version": "6.4.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "blinker",
+    "version": "1.9.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "blosc",
+    "version": "1.21.7",
+    "build": "h75543b7_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "bokeh",
+    "version": "3.10.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "boltons",
+    "version": "26.2.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "botocore",
+    "version": "1.43.117",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "brotlicffi",
+    "version": "1.2.1.0",
+    "build": "py313hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8",
+    "build": "h2bbff1b_6",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "c-ares",
+    "version": "1.34.8",
+    "build": "h2c209ce_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "c-blosc2",
+    "version": "3.3.5",
+    "build": "h53c9d6e_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ca-certificates",
+    "version": "2026.11.5",
+    "build": "h382c6e5_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "cairo",
+    "version": "1.18.6",
+    "build": "h5c4e243_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "cattrs",
+    "version": "26.2.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "certifi",
+    "version": "2026.10.23",
+    "build": "pyhd3eb1b0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "cffi",
+    "version": "2.1.1",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "chardet",
+    "version": "5.2.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.5.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "click",
+    "version": "8.4.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "cloudpickle",
+    "version": "3.1.2",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "colorcet",
+    "version": "3.2.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "comm",
+    "version": "0.2.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda",
+    "version": "26.10.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-anaconda-telemetry",
+    "version": "0.4.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "conda-anaconda-tos",
+    "version": "0.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-build",
+    "version": "26.9.1",
+    "build": "py313h389067f_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-content-trust",
+    "version": "0.3.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-index",
+    "version": "0.13.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-launchers",
+    "version": "24.7.1",
+    "build": "hd3eb1b0_6",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "conda-libmamba-solver",
+    "version": "26.10.1",
+    "build": "pyh3785b3c_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "conda-lockfiles",
+    "version": "0.2.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-pack",
+    "version": "0.9.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-package-handling",
+    "version": "2.6.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-package-streaming",
+    "version": "0.13.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-pycosat-solver",
+    "version": "26.10.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "conda-pypi",
+    "version": "0.13.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-rattler-solver",
+    "version": "26.11.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-repo-cli",
+    "version": "1.0.222",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conda-self",
+    "version": "0.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "conpty",
+    "version": "1.23.20211.0",
+    "build": "h169ad4e_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "contourpy",
+    "version": "1.4.0",
+    "build": "py313h90c3233_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "cookiecutter",
+    "version": "2.7.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "cpp-expected",
+    "version": "1.3.1",
+    "build": "h169ad4e_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "cryptography",
+    "version": "50.0.2",
+    "build": "py313h153bf51_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "cuda-version",
+    "version": "13.0",
+    "build": "h8445db7_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "curl",
+    "version": "8.23.0",
+    "build": "hd33b249_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "cycler",
+    "version": "0.12.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "dask",
+    "version": "2026.8.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "dask-core",
+    "version": "2026.8.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "datashader",
+    "version": "0.19.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "dav1d",
+    "version": "1.5.3",
+    "build": "h4375697_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "debugpy",
+    "version": "1.8.21",
+    "build": "py313hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "defusedxml",
+    "version": "0.7.1",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "diff-match-patch",
+    "version": "20200713",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "dill",
+    "version": "0.4.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "distributed",
+    "version": "2026.8.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "distro",
+    "version": "1.9.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "docstring-to-markdown",
+    "version": "0.17",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "docutils",
+    "version": "0.23",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "entrypoints",
+    "version": "0.4.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "et_xmlfile",
+    "version": "2.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "evalidate",
+    "version": "2.1.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "executing",
+    "version": "2.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "expat",
+    "version": "2.10.0",
+    "build": "hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "filelock",
+    "version": "4.2.7",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "flake8",
+    "version": "7.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "flask",
+    "version": "3.1.3",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "fmt",
+    "version": "12.1.0",
+    "build": "ha349831_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "fontconfig",
+    "version": "2.18.2",
+    "build": "h1abe22e_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "fonttools",
+    "version": "4.68.0",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "formulaic",
+    "version": "1.2.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "freeglut",
+    "version": "3.8.0",
+    "build": "hfcef157_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "freetype",
+    "version": "2.14.3",
+    "build": "he7b5929_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "frozendict",
+    "version": "2.4.7",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "frozenlist",
+    "version": "1.8.0",
+    "build": "py313h885b0b7_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "fsspec",
+    "version": "2026.9.0",
+    "build": "py313h56ec5ee_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "gflags",
+    "version": "2.3.1",
+    "build": "h5d1cb46_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "glog",
+    "version": "0.7.1",
+    "build": "h5c3225e_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "gmp",
+    "version": "6.3.0",
+    "build": "he664a35_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "gmpy2",
+    "version": "2.3.1",
+    "build": "py313h922e254_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "googleapis-common-protos",
+    "version": "1.75.5",
+    "build": "py313hfb578dd_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "graphite2",
+    "version": "1.3.15",
+    "build": "h781baf4_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "greenlet",
+    "version": "3.3.2",
+    "build": "py313hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "grpcio",
+    "version": "1.83.0",
+    "build": "py313h6825e9a_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "h5py",
+    "version": "3.16.0",
+    "build": "py313he1af309_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "harfbuzz",
+    "version": "12.3.0",
+    "build": "h807c389_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "hdf5",
+    "version": "2.0.0",
+    "build": "h951a565_5",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "heapdict",
+    "version": "1.0.1",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "holoviews",
+    "version": "1.23.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "httptools",
+    "version": "0.8.0",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1",
+    "build": "py313haa95532_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "hvplot",
+    "version": "0.12.2",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "icu",
+    "version": "78.3",
+    "build": "ha03e165_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "imageio",
+    "version": "2.38.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "imagesize",
+    "version": "1.4.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "imbalanced-learn",
+    "version": "0.14.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "importlib-metadata",
+    "version": "10.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "inflection",
+    "version": "0.5.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "iniconfig",
+    "version": "2.3.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "intake",
+    "version": "2.0.9",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "intel-openmp",
+    "version": "2025.0.0",
+    "build": "haa95532_1165",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "interface_meta",
+    "version": "2.0.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "intervaltree",
+    "version": "3.2.1",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "ipykernel",
+    "version": "6.31.0",
+    "build": "py313h56ec5ee_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ipympl",
+    "version": "0.9.8",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ipython",
+    "version": "9.17.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ipython_genutils",
+    "version": "0.2.0",
+    "build": "pyhd3eb1b0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "ipython_pygments_lexers",
+    "version": "1.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ipywidgets",
+    "version": "8.1.9",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "isort",
+    "version": "9.0.2",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "itsdangerous",
+    "version": "2.2.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jaraco.classes",
+    "version": "3.4.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jaraco.context",
+    "version": "6.1.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jaraco.functools",
+    "version": "4.4.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jedi",
+    "version": "0.19.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jellyfish",
+    "version": "1.3.0",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jinja2",
+    "version": "3.1.6",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jmespath",
+    "version": "1.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "joblib",
+    "version": "1.6.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "json5",
+    "version": "0.17.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jsonschema",
+    "version": "4.26.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jsonschema-specifications",
+    "version": "2025.9.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter",
+    "version": "1.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter-builder",
+    "version": "1.2.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter-lsp",
+    "version": "2.3.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter_client",
+    "version": "8.10.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter_console",
+    "version": "6.6.3",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter_core",
+    "version": "5.9.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter_events",
+    "version": "0.12.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter_server",
+    "version": "2.21.1",
+    "build": "py313haa95532_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyter_server_terminals",
+    "version": "0.5.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyterlab",
+    "version": "4.6.4",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyterlab-variableinspector",
+    "version": "3.2.4",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyterlab_pygments",
+    "version": "0.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyterlab_server",
+    "version": "2.28.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "jupyterlab_widgets",
+    "version": "3.0.17",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "keyring",
+    "version": "25.7.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "kiwisolver",
+    "version": "1.5.1",
+    "build": "py313hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "lazy_loader",
+    "version": "0.6",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "lcms2",
+    "version": "2.19.1",
+    "build": "h5da84a9_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "lerc",
+    "version": "4.1.0",
+    "build": "hac13702_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libabseil",
+    "version": "20260526.0",
+    "build": "cxx17_h56e4d9f_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libarchive",
+    "version": "3.8.8",
+    "build": "he4ea9ff_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libavif",
+    "version": "1.4.2",
+    "build": "h1a73fbf_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libboost",
+    "version": "1.88.0",
+    "build": "h393202a_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libbrotlicommon",
+    "version": "1.2.1",
+    "build": "h27f1b8e_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libbrotlidec",
+    "version": "1.2.1",
+    "build": "h48ca90d_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libbrotlienc",
+    "version": "1.2.1",
+    "build": "hb4df093_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libclang13",
+    "version": "23.1.4",
+    "build": "default_h7e98824_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libcurl",
+    "version": "8.23.0",
+    "build": "h9440e04_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libdeflate",
+    "version": "1.26",
+    "build": "he974f32_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libevent",
+    "version": "2.1.13",
+    "build": "hdfe227c_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libexpat",
+    "version": "2.10.0",
+    "build": "hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.8",
+    "build": "h42d73b9_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libglib",
+    "version": "2.88.3",
+    "build": "h71fae0a_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libgrpc",
+    "version": "1.83.0",
+    "build": "haf5b7a2_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libiconv",
+    "version": "1.18",
+    "build": "hc89ec93_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libjpeg-turbo",
+    "version": "3.1.3",
+    "build": "h02ab6af_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libkrb5",
+    "version": "1.22.3",
+    "build": "h3d06f0e_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "liblief",
+    "version": "0.17.5",
+    "build": "h0c1e6ba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libllvm23",
+    "version": "23.1.4",
+    "build": "h48dad37_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libmamba",
+    "version": "2.3.2",
+    "build": "hb022cc8_7",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libmambapy",
+    "version": "2.3.2",
+    "build": "py313hbbaec62_7",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libmpdec",
+    "version": "4.0.1",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libopenjpeg",
+    "version": "2.5.4",
+    "build": "h1c6eee0_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.56",
+    "build": "h2854ad3_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libpq",
+    "version": "18.4",
+    "build": "h7c26194_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libprotobuf",
+    "version": "7.35.1",
+    "build": "h654e5f9_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libre2-11",
+    "version": "2025.11.05",
+    "build": "hd7fb8db_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libsodium",
+    "version": "1.0.21",
+    "build": "h3c3880a_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libsolv",
+    "version": "0.7.39",
+    "build": "h5d596b6_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libspatialindex",
+    "version": "2.1.0",
+    "build": "hb194be7_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libssh2",
+    "version": "1.11.1",
+    "build": "hc5b269c_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libthrift",
+    "version": "0.25.0",
+    "build": "h91d73ca_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libtiff",
+    "version": "4.7.2",
+    "build": "h3f75659_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libutf8proc",
+    "version": "2.11.3",
+    "build": "hd3ee48b_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libwebp-base",
+    "version": "1.6.0",
+    "build": "hbf3958f_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libxml2",
+    "version": "2.15.4",
+    "build": "h39d8ac2_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libxslt",
+    "version": "1.1.45",
+    "build": "h0e138e9_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "libzlib",
+    "version": "1.3.2",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "linkify-it-py",
+    "version": "2.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "llvmlite",
+    "version": "0.47.0",
+    "build": "py313h6c71b81_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "locket",
+    "version": "1.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "lsprotocol",
+    "version": "2025.0.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "lz4",
+    "version": "4.4.5",
+    "build": "py313hb1efef3_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "lz4-c",
+    "version": "1.9.4",
+    "build": "h1c6eee0_5",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "lzo",
+    "version": "2.10",
+    "build": "he774522_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "m2w64-gcc-libgfortran",
+    "version": "5.3.0",
+    "build": "6",
+    "channel": "https://repo.anaconda.com/pkgs/msys2/win-64"
+  },
+  {
+    "name": "m2w64-gcc-libs",
+    "version": "5.3.0",
+    "build": "7",
+    "channel": "https://repo.anaconda.com/pkgs/msys2/win-64"
+  },
+  {
+    "name": "m2w64-gcc-libs-core",
+    "version": "5.3.0",
+    "build": "7",
+    "channel": "https://repo.anaconda.com/pkgs/msys2/win-64"
+  },
+  {
+    "name": "m2w64-gmp",
+    "version": "6.1.0",
+    "build": "2",
+    "channel": "https://repo.anaconda.com/pkgs/msys2/win-64"
+  },
+  {
+    "name": "m2w64-libwinpthread-git",
+    "version": "5.0.0.4634.697f757",
+    "build": "2",
+    "channel": "https://repo.anaconda.com/pkgs/msys2/win-64"
+  },
+  {
+    "name": "mako",
+    "version": "1.4.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mamba_gator",
+    "version": "6.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "markdown",
+    "version": "3.10.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "markdown-it-py",
+    "version": "4.2.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "markupsafe",
+    "version": "3.0.3",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "matplotlib",
+    "version": "3.11.2",
+    "build": "py313he3dc4dc_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "matplotlib-base",
+    "version": "3.11.2",
+    "build": "py313h330ff07_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "matplotlib-inline",
+    "version": "0.2.2",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mbedtls",
+    "version": "3.5.1",
+    "build": "h5da7b33_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mccabe",
+    "version": "0.7.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "mdit-py-plugins",
+    "version": "0.6.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mdurl",
+    "version": "0.1.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "menuinst",
+    "version": "2.5.2",
+    "build": "py313hd7fb8db_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mistune",
+    "version": "3.4.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mkl",
+    "version": "2025.0.0",
+    "build": "h585ebfc_931",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mkl-service",
+    "version": "2.9.0",
+    "build": "py313h1b35211_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mkl_fft",
+    "version": "2.4.0",
+    "build": "py313h8b56019_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mkl_random",
+    "version": "1.5.0",
+    "build": "py313hf1216d0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "more-itertools",
+    "version": "11.2.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mpc",
+    "version": "1.3.1",
+    "build": "h827c3e9_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mpfr",
+    "version": "4.2.1",
+    "build": "haf916eb_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mpi",
+    "version": "1.0",
+    "build": "msmpi",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mpi4py",
+    "version": "4.1.2",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mpmath",
+    "version": "1.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msgpack-python",
+    "version": "1.2.4",
+    "build": "py313hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msmpi",
+    "version": "10.1.1",
+    "build": "had4844c_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-conda-epoch",
+    "version": "20160418",
+    "build": "1",
+    "channel": "https://repo.anaconda.com/pkgs/msys2/win-64"
+  },
+  {
+    "name": "msys2-gcc-libs",
+    "version": "15.3.0",
+    "build": "haa95532_1000",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-libiconv",
+    "version": "1.19",
+    "build": "haa95532_1000",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-libintl",
+    "version": "0.22.5",
+    "build": "haa95532_1000",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-libzstd",
+    "version": "1.5.7",
+    "build": "haa95532_1000",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-msys-mutex",
+    "version": "1.0",
+    "build": "msys2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-msys2-runtime",
+    "version": "3.6.10",
+    "build": "haa95532_1000",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-patch",
+    "version": "2.7.6",
+    "build": "2000",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "msys2-zlib",
+    "version": "1.3.2",
+    "build": "haa95532_1000",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "multidict",
+    "version": "7.0.0",
+    "build": "py313h1c6eee0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "multipledispatch",
+    "version": "1.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mypy",
+    "version": "1.20.2",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mypy_extensions",
+    "version": "1.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mysql-common",
+    "version": "9.7.4",
+    "build": "h0b12ad4_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "mysql-libs",
+    "version": "9.7.4",
+    "build": "h08a8c37_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "narwhals",
+    "version": "2.23.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "navigator-updater",
+    "version": "0.6.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nbclient",
+    "version": "0.11.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nbconvert",
+    "version": "7.17.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nbconvert-core",
+    "version": "7.17.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nbconvert-pandoc",
+    "version": "7.17.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nbformat",
+    "version": "5.11.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nest-asyncio",
+    "version": "1.6.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "networkx",
+    "version": "3.6.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nh3",
+    "version": "0.3.6",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nlohmann_json",
+    "version": "3.12.0",
+    "build": "h5541ee4_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "nltk",
+    "version": "3.10.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "notebook",
+    "version": "7.6.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "notebook-shim",
+    "version": "0.2.4",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "numba",
+    "version": "0.65.1",
+    "build": "py313h54bf9d2_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "numexpr",
+    "version": "2.14.2",
+    "build": "py313h5dbb76a_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "numpy",
+    "version": "2.4.6",
+    "build": "py313h9606935_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "numpy-base",
+    "version": "2.4.6",
+    "build": "py313h89dd80d_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "numpydoc",
+    "version": "1.11.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "openpyxl",
+    "version": "3.1.5",
+    "build": "py313h1c6eee0_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "openssl",
+    "version": "3.5.9",
+    "build": "hbb43b14_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "opentelemetry-api",
+    "version": "1.43.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "opentelemetry-exporter-otlp-proto-common",
+    "version": "1.43.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "opentelemetry-exporter-otlp-proto-grpc",
+    "version": "1.43.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "opentelemetry-exporter-otlp-proto-http",
+    "version": "1.43.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "opentelemetry-proto",
+    "version": "1.43.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "opentelemetry-sdk",
+    "version": "1.43.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "opentelemetry-semantic-conventions",
+    "version": "0.64b0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "orc",
+    "version": "2.2.0",
+    "build": "h1e45922_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pandas",
+    "version": "3.1.0",
+    "build": "py313hf1216d0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pandoc",
+    "version": "3.8",
+    "build": "haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pandocfilters",
+    "version": "1.5.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "panel",
+    "version": "1.10.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "panel-core",
+    "version": "1.10.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "panel-material-ui",
+    "version": "0.16.7",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "param",
+    "version": "2.4.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "parso",
+    "version": "0.8.7",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "partd",
+    "version": "1.4.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pathspec",
+    "version": "1.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "patsy",
+    "version": "1.0.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pcre2",
+    "version": "10.46",
+    "build": "h5740b90_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pexpect",
+    "version": "4.9.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pickleshare",
+    "version": "0.7.5",
+    "build": "pyhd3eb1b0_1003",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "pillow",
+    "version": "12.3.0",
+    "build": "py313hbb6c998_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pip",
+    "version": "26.2.2",
+    "build": "pyhc872135_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "pixman",
+    "version": "0.46.4",
+    "build": "h0701eb8_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pkce",
+    "version": "1.0.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pkginfo",
+    "version": "2.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "platformdirs",
+    "version": "4.14.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "plotly",
+    "version": "7.1.0",
+    "build": "py313h56ec5ee_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pluggy",
+    "version": "1.7.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "prometheus_client",
+    "version": "0.26.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "prompt-toolkit",
+    "version": "3.0.53",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "prompt_toolkit",
+    "version": "3.0.53",
+    "build": "hd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "propcache",
+    "version": "0.5.2",
+    "build": "py313h1c6eee0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "protobuf",
+    "version": "7.35.1",
+    "build": "py313h854c0a0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "psutil",
+    "version": "7.2.2",
+    "build": "py313h1c6eee0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ptyprocess",
+    "version": "0.7.0",
+    "build": "pyhd3eb1b0_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "pure_eval",
+    "version": "0.2.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "py-cpuinfo",
+    "version": "9.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "py-lief",
+    "version": "0.17.5",
+    "build": "py313h0c1e6ba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "py-rattler",
+    "version": "0.28.1",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "py-rattler-build",
+    "version": "0.77.0",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyarrow",
+    "version": "24.0.0",
+    "build": "cuda130_py313h3afb7dd_103",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pybind11-abi",
+    "version": "5",
+    "build": "hd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "pycares",
+    "version": "5.0.1",
+    "build": "py313hb00c0d3_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pycodestyle",
+    "version": "2.12.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pycosat",
+    "version": "0.6.6",
+    "build": "py313h827c3e9_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pycparser",
+    "version": "3.12",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyct",
+    "version": "0.6.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pydantic",
+    "version": "2.14.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pydantic-core",
+    "version": "2.50.4",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pydantic-settings",
+    "version": "2.14.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pydocstyle",
+    "version": "6.3.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyerfa",
+    "version": "2.0.1.5",
+    "build": "py313h827c3e9_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyflakes",
+    "version": "3.2.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pygithub",
+    "version": "2.10.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pygments",
+    "version": "2.21.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyjwt",
+    "version": "2.15.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pylint",
+    "version": "4.0.8",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pylint-venv",
+    "version": "3.0.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyls-spyder",
+    "version": "0.4.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "pynacl",
+    "version": "1.6.2",
+    "build": "py313h3c3880a_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyodbc",
+    "version": "5.5.0",
+    "build": "py313hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyparsing",
+    "version": "3.3.3",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyproject_hooks",
+    "version": "1.3.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyqt",
+    "version": "6.11.0",
+    "build": "py313hd742356_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyqt6-sip",
+    "version": "13.11.1",
+    "build": "py313h630b2a1_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyqtwebengine",
+    "version": "6.11.0",
+    "build": "py313h79c7e7e_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyside6",
+    "version": "6.11.0",
+    "build": "py313ha47685f_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pysocks",
+    "version": "1.7.1",
+    "build": "py313haa95532_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pytables",
+    "version": "3.11.1",
+    "build": "py313heae0ebb_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pytest",
+    "version": "9.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python",
+    "version": "3.13.9",
+    "build": "h260b955_100_cp313",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-build",
+    "version": "1.6.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-dateutil",
+    "version": "2.9.0post0",
+    "build": "py313haa95532_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-dotenv",
+    "version": "1.2.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-fastjsonschema",
+    "version": "2.22.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-installer",
+    "version": "1.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-json-logger",
+    "version": "4.2.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-libarchive-c",
+    "version": "5.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-librt",
+    "version": "0.16.0",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-lmdb",
+    "version": "2.3.0",
+    "build": "py313he6f9b91_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-lsp-black",
+    "version": "2.0.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-lsp-jsonrpc",
+    "version": "1.1.2",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "python-lsp-ruff",
+    "version": "2.3.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-lsp-server",
+    "version": "1.14.0",
+    "build": "py313h4442805_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-multipart",
+    "version": "0.0.32",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-slugify",
+    "version": "9.1.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "python-tzdata",
+    "version": "2026.6",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "python_abi",
+    "version": "3.13",
+    "build": "5_cp313",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pytokens",
+    "version": "0.4.1",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pytoolconfig",
+    "version": "1.3.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pytz",
+    "version": "2026.6",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyuca",
+    "version": "1.2",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyviz_comms",
+    "version": "3.0.6",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pywavelets",
+    "version": "1.10.0",
+    "build": "py313h921b242_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pywin32",
+    "version": "312",
+    "build": "py313hd7fb8db_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pywin32-ctypes",
+    "version": "0.2.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pywinpty",
+    "version": "3.0.5",
+    "build": "py313ha41a56f_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyyaml",
+    "version": "6.0.3",
+    "build": "py313hb9a58be_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "pyzmq",
+    "version": "27.2.0",
+    "build": "py313h4c98cb4_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qdarkstyle",
+    "version": "3.2.3",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "qstylizer",
+    "version": "0.2.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtawesome",
+    "version": "1.4.2",
+    "build": "py313he3dc4dc_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtbase",
+    "version": "6.11.0",
+    "build": "h6af2ed4_4",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtconsole",
+    "version": "5.7.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtdeclarative",
+    "version": "6.11.0",
+    "build": "hcb633d5_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtpy",
+    "version": "2.4.3",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtshadertools",
+    "version": "6.11.0",
+    "build": "h0257d31_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtsvg",
+    "version": "6.11.0",
+    "build": "hf3e933c_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qttools",
+    "version": "6.11.0",
+    "build": "had87466_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtwebchannel",
+    "version": "6.11.0",
+    "build": "h5895b07_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtwebengine",
+    "version": "6.11.0",
+    "build": "h02b6bd2_6",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "qtwebsockets",
+    "version": "6.11.0",
+    "build": "he7f7b8d_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "re2",
+    "version": "2025.11.05",
+    "build": "hca2749c_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "readchar",
+    "version": "4.2.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "referencing",
+    "version": "0.37.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "regex",
+    "version": "2026.9.29",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "reproc",
+    "version": "14.2.7",
+    "build": "h557c29b_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "reproc-cpp",
+    "version": "14.2.7",
+    "build": "h557c29b_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "requests",
+    "version": "2.34.2",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "requests-toolbelt",
+    "version": "1.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "rfc3339-validator",
+    "version": "0.1.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "rfc3986-validator",
+    "version": "0.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "rich",
+    "version": "15.0.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "roman-numerals",
+    "version": "4.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "rope",
+    "version": "1.15.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "rpds-py",
+    "version": "2026.9.1",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "rtree",
+    "version": "1.4.1",
+    "build": "py313hc6ec786_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ruamel.yaml",
+    "version": "0.18.16",
+    "build": "py313hb9a58be_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ruamel.yaml.clib",
+    "version": "0.2.14",
+    "build": "py313hb9a58be_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ruff",
+    "version": "0.16.8",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "s3fs",
+    "version": "2026.9.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "scikit-image",
+    "version": "0.26.0",
+    "build": "py313h885b0b7_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "scikit-learn",
+    "version": "1.9.1",
+    "build": "py313h9b39bef_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "scipy",
+    "version": "1.18.1",
+    "build": "py313h176032c_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "seaborn",
+    "version": "0.13.2",
+    "build": "py313haa95532_4",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "semver",
+    "version": "3.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "send2trash",
+    "version": "2.1.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sentry-sdk",
+    "version": "2.67.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "setuptools",
+    "version": "84.2.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "shellingham",
+    "version": "1.5.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "simdjson",
+    "version": "4.6.4",
+    "build": "h906acbd_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sip",
+    "version": "6.15.1",
+    "build": "py313h9561cc3_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "six",
+    "version": "1.17.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sklearn-compat",
+    "version": "0.1.6",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "snappy",
+    "version": "1.2.2",
+    "build": "hab6b7b3_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "snowballstemmer",
+    "version": "3.1.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sortedcontainers",
+    "version": "2.4.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "soupsieve",
+    "version": "4.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sphinx",
+    "version": "9.2.0",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sphinxcontrib-applehelp",
+    "version": "2.0.0",
+    "build": "pyhd3eb1b0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "sphinxcontrib-devhelp",
+    "version": "2.0.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "sphinxcontrib-htmlhelp",
+    "version": "2.1.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "sphinxcontrib-jsmath",
+    "version": "2.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sphinxcontrib-qthelp",
+    "version": "2.0.0",
+    "build": "pyhd3eb1b0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "sphinxcontrib-serializinghtml",
+    "version": "2.0.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "spirv-tools",
+    "version": "2026.4",
+    "build": "h169ad4e_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "spyder",
+    "version": "6.1.5",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "spyder-kernels",
+    "version": "3.1.7",
+    "build": "py313h56ec5ee_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sqlalchemy",
+    "version": "2.0.52",
+    "build": "py313hee5a0db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sqlite",
+    "version": "3.54.1",
+    "build": "hee5a0db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "stack_data",
+    "version": "0.6.3",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "starlette",
+    "version": "1.3.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "statsmodels",
+    "version": "0.15.0",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "streamlit",
+    "version": "1.64.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "superqt",
+    "version": "0.8.1",
+    "build": "py313h2873aaa_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "sympy",
+    "version": "1.14.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tabulate",
+    "version": "0.10.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tbb",
+    "version": "2022.0.0",
+    "build": "h214f63a_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tbb-devel",
+    "version": "2022.0.0",
+    "build": "h214f63a_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tblib",
+    "version": "3.2.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "terminado",
+    "version": "0.18.1",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "text-unidecode",
+    "version": "1.3",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "textdistance",
+    "version": "4.6.3",
+    "build": "py313h56ec5ee_2",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "threadpoolctl",
+    "version": "3.7.0",
+    "build": "py313h56ec5ee_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "three-merge",
+    "version": "0.1.1",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "tifffile",
+    "version": "2026.11.8",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tinycss2",
+    "version": "1.5.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tk",
+    "version": "8.6.15",
+    "build": "hf199647_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "toml",
+    "version": "0.10.2",
+    "build": "pyhd3eb1b0_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "tomli",
+    "version": "2.5.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tomli-w",
+    "version": "1.2.0",
+    "build": "pyhd3eb1b0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "tomlkit",
+    "version": "0.15.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "toolz",
+    "version": "1.2.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tornado",
+    "version": "6.6",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tqdm",
+    "version": "4.70.0",
+    "build": "py313h4442805_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "traitlets",
+    "version": "5.16.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "truststore",
+    "version": "0.10.5",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "typer",
+    "version": "0.25.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "typing-extensions",
+    "version": "4.16.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "tzdata",
+    "version": "2026c",
+    "build": "he532380_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/noarch"
+  },
+  {
+    "name": "uc-micro-py",
+    "version": "2.0.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ucrt",
+    "version": "10.0.22621.0",
+    "build": "haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "ujson",
+    "version": "5.13.0",
+    "build": "py313hd7fb8db_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "unearth",
+    "version": "0.18.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "urllib3",
+    "version": "2.8.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "uvicorn",
+    "version": "0.52.4",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "vc",
+    "version": "14.3",
+    "build": "h2df5915_12",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "vc14_runtime",
+    "version": "14.44.35208",
+    "build": "h4927774_12",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "vcomp14",
+    "version": "14.44.35208",
+    "build": "h4927774_12",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "vs2015_runtime",
+    "version": "14.44.35208",
+    "build": "ha6b5a95_12",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "watchdog",
+    "version": "4.0.2",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "wcwidth",
+    "version": "0.9.4",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "webencodings",
+    "version": "0.6.1",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "websocket-client",
+    "version": "1.8.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "websockets",
+    "version": "16.0",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "werkzeug",
+    "version": "3.1.9",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "whatthepatch",
+    "version": "1.0.7",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "wheel",
+    "version": "0.48.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "widgetsnbextension",
+    "version": "4.0.16",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "win_inet_pton",
+    "version": "1.1.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "winpty",
+    "version": "0.4.3",
+    "build": "haa95532_5",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "wrapt",
+    "version": "2.5.1",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "xarray",
+    "version": "2026.9.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "xlwings",
+    "version": "0.37.8",
+    "build": "py313hd20cfba_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "xyzservices",
+    "version": "2026.3.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "xz",
+    "version": "5.8.4",
+    "build": "hb851c79_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "yaml",
+    "version": "0.2.5",
+    "build": "h6b1b717_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "yaml-cpp",
+    "version": "0.9.0",
+    "build": "h9081779_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "yapf",
+    "version": "0.43.0",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "yarl",
+    "version": "1.25.1",
+    "build": "py313h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "zeromq",
+    "version": "4.3.5",
+    "build": "h6a984cb_3",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "zict",
+    "version": "3.0.0",
+    "build": "py313haa95532_1",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "zipp",
+    "version": "4.1.2",
+    "build": "py313haa95532_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "zlib",
+    "version": "1.3.2",
+    "build": "h1c6eee0_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "zlib-ng",
+    "version": "2.3.3",
+    "build": "h25330d1_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.7",
+    "build": "h56299aa_0",
+    "channel": "https://repo.anaconda.com/pkgs/main/win-64"
+  }
+]

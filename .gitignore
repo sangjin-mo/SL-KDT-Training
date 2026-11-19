@@ -1,0 +1,9 @@
+.tools/
+.codex_pdf_tools/
+github_upload/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.zip
+debug.log
