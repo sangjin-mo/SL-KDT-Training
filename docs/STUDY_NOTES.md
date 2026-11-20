@@ -831,6 +831,135 @@ PY311(Python 3.11)에서는 f-string 바깥과 표현식 안쪽에 같은 따옴
 - [ ] 문자열 '123'과 정수 123에 len을 적용할 때의 차이를 안다.
 - [ ] PY311에서 사용할 수 있는 f-string 따옴표 조합을 작성한다.
 
+### 9.8 문자열 연산: 연결과 반복
+
+실습: [ex_str_03.py](../DAY04/ex_str_03.py). 앞에서 문자를 선택하는 방법을 배웠다면, 이번에는 문자열을 합치고 반복해서 새로운 문자열을 만든다.
+
+**소스코드**
+
+```python
+msg1 = "good"
+msg2 = "luck"
+
+print(msg1 + msg2)
+print(msg1 + " " + msg2)
+print(msg1 + str(2027))
+print(msg1 + "msg2")
+print(msg1 * 3)
+print("-" * 10)
+```
+
+**실행 결과**
+
+```text
+goodluck
+good luck
+good2027
+goodmsg2
+goodgoodgood
+----------
+```
+
+- `str + str`은 문자열 연결이다. 공백은 자동으로 들어가지 않는다.
+- `msg2`는 변수의 값 luck을 사용하지만, `"msg2"`는 글자 그대로 msg2다.
+- `msg1 + 2027`은 TypeError다. 숫자를 `str(2027)`로 변환해야 한다. f-string에서는 `f"{msg1}{2027}"`로 표현할 수도 있다.
+- `str * 정수`는 문자열을 지정 횟수만큼 반복한 결과를 만든다. 0이나 음수를 곱하면 빈 문자열이다.
+- 연산 결과를 출력만 하면 기존 msg1은 그대로다. 변수에 반영하려면 `msg1 = msg1 + msg2`처럼 재할당한다.
+
+### 9.9 문자열 비교: 처음 다른 문자로 순서 판단
+
+**소스코드**
+
+```python
+print("a" > "b")
+print("ac" > "ab")
+print("ab" < "abc")
+print("Luck" == "luck")
+print("10" < "2")
+```
+
+**실행 결과**
+
+```text
+False
+True
+True
+False
+True
+```
+
+비교 결과는 bool이다. 문자열은 길이나 숫자 크기를 먼저 비교하지 않고, 왼쪽부터 같은 위치의 문자를 유니코드 코드 포인트 순서로 비교한다.
+
+1. `"ac"`와 `"ab"`의 첫 문자 a는 같으므로 다음 문자로 이동한다.
+2. c가 b보다 뒤에 있으므로 `"ac" > "ab"`는 True다.
+3. 공통 부분까지 모두 같고 한 문자열이 먼저 끝나면 짧은 문자열이 앞선다. 따라서 `"ab" < "abc"`는 True다.
+
+대문자와 소문자는 서로 다른 문자다. `"10" < "2"`는 첫 문자 '1'과 '2'를 비교해 True지만, `int("10") < int("2")`는 숫자를 비교해 False다.
+
+### 9.10 포함 여부: in과 not in
+
+**소스코드**
+
+```python
+msg = "Luck"
+print("l" in msg)
+print("L" in msg)
+print("uc" in msg)
+print("lc" in msg)
+print("l" not in msg)
+print("L" not in msg)
+print("uc" not in msg)
+print("1" in "123")
+```
+
+**실행 결과**
+
+```text
+False
+True
+True
+False
+True
+False
+False
+True
+```
+
+문자열의 in은 문자 하나뿐 아니라 **연속된 부분 문자열**이 포함되어 있는지 확인한다. Luck에는 uc가 이어져 있지만 lc는 이어져 있지 않다. 대소문자를 구분하므로 소문자 l은 없고 대문자 L은 있다. not in은 in의 반대 결과다.
+
+`"1" in "123"`은 올바른 문자열 포함 검사다. `1 in "123"`처럼 왼쪽에 정수를 넣으면 TypeError가 발생한다.
+
+| 연산 | 결과 종류 | 확인 목적 |
+|---|---|---|
+| `+`, `*` | str | 연결·반복한 새 문자열 생성 |
+| `>`, `<`, `>=`, `<=` | bool | 문자열 순서 비교 |
+| `==`, `!=` | bool | 문자열 값이 같은지 비교 |
+| `in`, `not in` | bool | 부분 문자열 포함 여부 |
+
+**직접 풀어보기**
+
+```python
+word = "Python"
+print(word + "3")
+print(word * 2)
+print("Py" in word)
+print("py" in word)
+print("th" not in word)
+```
+
+<details>
+<summary>정답 펼치기</summary>
+
+```text
+Python3
+PythonPython
+True
+False
+False
+```
+
+</details>
+
 <!-- PRACTICE_SOURCE_START -->
 
 ## 10. 실습 코드 전체
@@ -1318,4 +1447,47 @@ print(f"{msg}의 원소 개수 => {len(msg)}개")
 
 # 기본 데이터 타입 정수 실수 논리 값은 원소 없음
 print(f"'123'의 원소 개수 => {len('123')}개")
+```
+
+### DAY04/ex_str_03.py
+
+[ex_str_03.py](../DAY04/ex_str_03.py)
+
+```python
+# -----------------------------------------------------------------------
+# 파이썬 데이터 종류 - 문자열 str 타입
+# - 연산자 : + => 문자열 연결  
+#           * => 문자열 반복
+#     비교연산 => True/False
+# 원소의 개수 반환 => len
+msg1 = "good"
+msg2 = "luck"
+
+# => 덧셈 : str + str
+print(f"{msg1} + {msg2} => {msg1 + msg2}")
+print(f"{msg1} + {2027} => {msg1 + str(2027)}")
+print(f"{msg1} + {'msg2'} => {msg1 + 'msg2'}")
+
+# => 곱셈 : str * 정수 => 문자열 반복 연결
+print(f"{msg1} * 3 => {msg1 * 3}")
+
+# => 비교 : > < >= <= == != 
+# => 결과 : True/False
+# 같은 인덱스의 원소끼리 비교
+print(f'"a" > "b"   => {"a" > "b"}')
+print(f'"ac" > "ab" => {"ac" > "ab"}')
+
+# => 멤버 연산자 : 원소 in 데이터, 원소 not in 데이터
+# => 결과 : True/False
+msg = "Luck"
+
+print(f' l in {msg} => {"l" in msg}')
+print(f' L in {msg} => {"L" in msg}')
+print(f' uc in {msg} => {"uc" in msg}')
+print('-' * 30)
+print(f' l not in {msg} => {"l" not in msg}')
+print(f' L not in {msg} => {"L" not in msg}')
+print(f' uc not in {msg} => {"uc" not in msg}')
+
+print(f' 1 in {"123"} => {"1" in "123"}')
 ```
